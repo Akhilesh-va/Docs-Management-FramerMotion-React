@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Docs-Management-FramerMotion-React/static/css/main.b6033e0a.css",
+    "main.js": "/Docs-Management-FramerMotion-React/static/js/main.3dd4623d.js",
+    "index.html": "/Docs-Management-FramerMotion-React/index.html",
+    "main.b6033e0a.css.map": "/Docs-Management-FramerMotion-React/static/css/main.b6033e0a.css.map",
+    "main.3dd4623d.js.map": "/Docs-Management-FramerMotion-React/static/js/main.3dd4623d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6033e0a.css",
+    "static/js/main.3dd4623d.js"
+  ]
+}
